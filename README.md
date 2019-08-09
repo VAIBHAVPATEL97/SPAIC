@@ -1,13 +1,8 @@
 # SPAIC
 This repository is for SPAIC. This file contains the information of the 60 days of Udacity.
-| Day Number  | Activity | Links & Resources |
-| ------------- | ------------- |-----------|
-| Day 1  | Content Cell  | |
-| Day 1  | Content Cell  | |
-| Day 1  | Content Cell  | |
-| Day 1  | Content Cell  | |
-| Day 1  | Content Cell  | |
-| Day 1  | Content Cell  | |
 
 
-
+| Fruit         | Price                   | Advantages              |
+| ------------- | ----------------------- | ----------------------- |
+| Bananas       | first line<br>next line | first line<br>next line |
+| Bananas       | first line<br>next line | first line<br>next line |
