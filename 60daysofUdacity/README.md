@@ -5,7 +5,7 @@
 | Deep Learning: GANs and Variational Autoencoders | Completed  |
 | Machine Learning Database-PostgreSQL course | In Progress  |
 | Machine Learning | In Progress|
-|##### Not related to this course Java Fundamentals and OOP- Udacity| Completed|
+|#####Not related to this course Java Fundamentals and OOP- Udacity| Completed|
 
 | Hackathon Orginized  | Organizer |
 | ------------- | ------------- |
@@ -74,14 +74,14 @@
 |51  | 1. Continued reading ML yearning <br>2.  Started reading about active contour  |  https://www.intechopen.com/books/medical-and-biological-image-analysis/active-contour-based-segmentation-techniques-for-medical-image-analysis |Encouraging @Rishi S Rao @Archit @Shudipto Trafder @Aniket Thomas @Sankalp Dayal @Shubhangi Jena @Anna Scott @akshu18 @Seeratpal K. Jaura @Sayali_Kutwal @LauraT @Shanmugapriya @Aarthi Alagammai @susyjam  |
 |52  | 1. Started working on Abnormalities detection in an 3D chest X-ray <br>2. Continued read about active contour<br> 3. Continued  reading Machine Learning Yearning.  |   | Encouraging @Rishi S Rao @Archit @Shudipto Trafder @Aniket Thomas @Sankalp Dayal @Shubhangi Jena @Anna Scott @akshu18 @Seeratpal K. Jaura @Sayali_Kutwal @LauraT @Shanmugapriya @Aarthi Alagammai @susyjam |
 |53  |1. Continued with 3D plotting of Xray files for biomedical project. <br>2. Continued reading Machine Learning Yearning.<br>3. Revising Lesson 3 of the course.|   |Encouraging @Rishi S Rao @Archit @Shudipto Trafder @Aniket Thomas @Sankalp Dayal @Shubhangi Jena@Sankalp Dayal @Anna Scott @akshu18 @Sayali_Kutwal @Seeratpal K. Jaura @LauraT @Shanmugapriya @Aarthi Alagammai @susyjam @shivu  |
-|54  |    |   | |
+|54  |1.	Made a README file for #60daysofudacity<br>2.	Continued with the PostgreSQL course about to complete it by tomorrow.<br>3.	Continued reading Machine Learning Yearning   |   | Encouraging @Rishi S Rao @Archit @Shudipto Trafder @Aniket Thomas @Sankalp Dayal @Shubhangi Jena @Sankalp Dayal @Anna Scott @akshu18 @Sayali_Kutwal @Seeratpal K. Jaura @LauraT @Shanmugapriya @Aarthi Alagammai @susyjam @shivu |
 |55 |    |   | |
 |56  |    |   | |
 |57 |    |   | |
 |58  |    |   | |
 |59  |    |   | |
 |60  |    |   | |
-
+###### Some days there might be #60daysofUdacity tag missing but it is mentioned on every post due to formatting issues need to add it again.
 
 
 
