@@ -1,2 +1,2 @@
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![Secure & Private AI Challenge Scholarships Facebook](https://github.com/VAIBHAVPATEL97/SPAIC/blob/master/SPAIC.jpg)
 
