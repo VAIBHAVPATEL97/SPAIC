@@ -1,4 +1,5 @@
-This file has update of each date for the 60 days od Udacity challenge.
+![60DaysofUdacity](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+
 
   | Day Number  |Acitivity/Work | Links/Resource used | Encouragement
 | ------------- | ------------- |------------- |------------- |
