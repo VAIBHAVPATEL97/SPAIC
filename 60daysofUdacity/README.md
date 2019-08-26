@@ -1,4 +1,4 @@
-![60DaysofUdacity](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![60DaysofUdacity](https://github.com/VAIBHAVPATEL97/SPAIC/blob/master/60daysofUdacity/60daysofUdacity.png)
 
 
   | Day Number  |Acitivity/Work | Links/Resource used | Encouragement
