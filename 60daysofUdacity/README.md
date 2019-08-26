@@ -1,5 +1,23 @@
 ![60DaysofUdacity](https://github.com/VAIBHAVPATEL97/SPAIC/blob/master/60daysofUdacity/60daysofUdacity.png)
 
+| Courses during this #60DaysofUdacity| Status |
+| ------------- | ------------- |
+| Deep Learning: GANs and Variational Autoencoders | Completed  |
+| Machine Learning Database-PostgreSQL course | In Progress  |
+| Machine Learning | In Progress|
+|##### Not related to this course Java Fundamentals and OOP- Udacity| Completed|
+
+| Hackathon Orginized  | Organizer |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
+| Projects during this #60DaysofUdacity | Status |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
+
 
   | Day Number  |Activity/Work | Links/Resource used | Encouragement
 | ------------- | ------------- |------------- |------------- |
