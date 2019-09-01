@@ -7,10 +7,10 @@
 | Machine Learning | In Progress|
 |Deploying web application with Heroku| Completed|
 
-| Hackathon Orginized | Organizer|
+| Hackathon Orginized | Organizers|
 | ------------- | ------------- |
-| Kaggle Weekly challenge- Classification Problem from Kaggle(Organised)| @Vebby @Archit @Aniket Thomas  |
-| Kaggle Weekly Challenge- NEU Faces in the Wild(Organised)| @Vebby @Archit @Aniket Thomas   |
+| Kaggle Weekly challenge- Classification Problem from Kaggle| @Vebby @Archit @Aniket Thomas  |
+| Kaggle Weekly Challenge- NEU Faces in the Wild| @Vebby @Archit @Aniket Thomas   |
 
 
 | Projects during this #60DaysofUdacity | Status |
