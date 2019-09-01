@@ -19,7 +19,9 @@
 | Pneumonia detection from Chest X-Ray | Completed  | Completed|
 | Neural Hashmap | In Progress |
 | Style Transfer for generating T-shirt images| Completed |
-
+| VAE combined with CNN for Face Recognition | Completed |
+|APTOS Blindness Detection | Completed|
+| NEU-Faces in the Wild| In Progress |
 
 
 
@@ -74,17 +76,25 @@
 |47  |   1. Working on pneumonia project with @Shudipto Trafder @Sankalp Dayal <br>2. Discussions with @Rishi S Rao @Seeratpal K. Jaura @Aarthi Alagammai @LauraT for project showcase.<br>3. Started new chapter of PostgreSQL course on datacamp.<br>4. Working with face recognition group in #sg_wonder_vision  |   |Encouraging @Archit @Aniket Thomas @Shubhangi Jena @Anna Scott @Sayali_Kutwal @akshu18 @Shanmugapriya @shivu @susyjam  |
 |48  |  1 Discussions with @Rishi S Rao @Seeratpal K. Jaura @Aarthi Alagammai @LauraT for project showcase. <br> 2. continued with chapter of PostgreSQL course on datacamp.||Encouraging @Archit @Aniket Thomas @Shubhangi Jena @Anna Scott @Sayali_Kutwal @akshu18 @Shanmugapriya @shivu @susyjam |
 |49| 1. Worked with @Shudipto Trafder and @Sankalp Dayal for project showcase.<br>2. Continued with PostgreSQL course.<br>3. Week 2 on ML course<br> 4. Continued reading Machine Learning Yearning.    |   | Encouraging @Rishi S Rao @Archit @Aniket Thomas @Anna Scott @Shubhangi Jena @Seeratpal K. Jaura @akshu18 @Sayali_Kutwal @LauraT @Aarthi Alagammai @Shanmugapriya @shivu @susyjam @Alejandro Galindo |
-|50  |1. Discussion with @Shudipto Trafder for future work on pneumonia. <br>2. Continued to learn PostgreSQL above to complete it.<br>3. Had a talk with @Rishi S Rao to work further on future projects. <br>4. Continued reading Machine Learning Yearning.   |   |Encouraging @Archit @Aniket Thomas @Sankalp Dayal @Shubhangi Jena @Seeratpal K. Jaura @Anna Scott @LauraT @Sayali_Kutwal @akshu18 @Aarthi Alagammai @Shanmugapriya @shivu @susyjam  |€
+|50  |1. Discussion with @Shudipto Trafder for future work on pneumonia. <br>2. Continued to learn PostgreSQL above to complete it.<br>3. Had a talk with @Rishi S Rao to work further on future projects. <br>4. Continued reading Machine Learning Yearning.   |   |Encouraging @Archit @Aniket Thomas @Sankalp Dayal @Shubhangi Jena @Seeratpal K. Jaura @Anna Scott @LauraT @Sayali_Kutwal @akshu18 @Aarthi Alagammai @Shanmugapriya @shivu @susyjam  |
 |51  | 1. Continued reading ML yearning <br>2.  Started reading about active contour  |  https://www.intechopen.com/books/medical-and-biological-image-analysis/active-contour-based-segmentation-techniques-for-medical-image-analysis |Encouraging @Rishi S Rao @Archit @Shudipto Trafder @Aniket Thomas @Sankalp Dayal @Shubhangi Jena @Anna Scott @akshu18 @Seeratpal K. Jaura @Sayali_Kutwal @LauraT @Shanmugapriya @Aarthi Alagammai @susyjam  |
 |52  | 1. Started working on Abnormalities detection in an 3D chest X-ray <br>2. Continued read about active contour<br> 3. Continued  reading Machine Learning Yearning.  |   | Encouraging @Rishi S Rao @Archit @Shudipto Trafder @Aniket Thomas @Sankalp Dayal @Shubhangi Jena @Anna Scott @akshu18 @Seeratpal K. Jaura @Sayali_Kutwal @LauraT @Shanmugapriya @Aarthi Alagammai @susyjam |
 |53  |1. Continued with 3D plotting of Xray files for biomedical project. <br>2. Continued reading Machine Learning Yearning.<br>3. Revising Lesson 3 of the course.|   |Encouraging @Rishi S Rao @Archit @Shudipto Trafder @Aniket Thomas @Sankalp Dayal @Shubhangi Jena@Sankalp Dayal @Anna Scott @akshu18 @Sayali_Kutwal @Seeratpal K. Jaura @LauraT @Shanmugapriya @Aarthi Alagammai @susyjam @shivu  |
 |54  |1.	Made a README file for #60daysofudacity<br>2.	Continued with the PostgreSQL course about to complete it by tomorrow.<br>3.	Continued reading Machine Learning Yearning   |   | Encouraging @Rishi S Rao @Archit @Shudipto Trafder @Aniket Thomas @Sankalp Dayal @Shubhangi Jena @Sankalp Dayal @Anna Scott @akshu18 @Sayali_Kutwal @Seeratpal K. Jaura @LauraT @Shanmugapriya @Aarthi Alagammai @susyjam @shivu |
-|55 |    |   | |
-|56  |    |   | |
-|57 |    |   | |
-|58  |    |   | |
-|59  |    |   | |
-|60  |    |   | |
+|55 | 1. Prepared post for the #project-showcase-challenge.<br>2. Discussion with @Rishi S Rao @LauraT @Aarthi Alagammai @Seeratpal K. Jaura for further actions to be taken on project.<br>3. Continued reading Machine Learning Yearning.<br.4. Last 2 chapters remaining to complete the PostgreSQL for ML.<br>   |   | Encouraging @Shudipto Trafder @Archit @Aniket Thomas @Sankalp Dayal @Shubhangi Jena @Anna Scott @Sayali_Kutwal @akshu18 @Shanmugapriya @Jess @Stark @susyjam @Nirupama Singh @Labiba @Sarah Majors 
+#60daysofudacity|
+|56  |  1. One chapter remaining to complete the PostgreSQL course for ML.<br>2. Discussions for future project with the project showcase team.<br>3. Continued reading Machine Learning Yearning.   |   |Encouraging @Rishi S Rao @Shudipto Trafder @Archit @Aniket Thomas @Sankalp Dayal @Shubhangi Jena @Anna Scott @Sayali_Kutwal @Seeratpal K. Jaura @LauraT @Shanmugapriya @susyjam @Labiba @Aarthi Alagammai 
+#60daysofudacity |
+|57 |  1. Tried active contour for detection of the abnormalities in chest xray<bR>2. Continued reading Machine Learning Yearning <br>3. Finishing last exercises for completing PostgreSQL course<br> |  https://scikit-image.org/docs/0.13.x/auto_examples/edges/plot_active_contours.html |Encouraging @Rishi S Rao @Archit @Shudipto Trafder @Aniket Thomas @Sankalp Dayal @Shubhangi Jena @Sayali_Kutwal  @Anna Scott @Seeratpal K. Jaura @Aarthi Alagammai @susyjam @Shanmugapriya 
+#60daysofudacity |
+|58  | 1. Reading about U-Net for imag segmentation.<br>2. Continued reading Machine Learning Yearning.<br>3. Completed the PostgreSQL course for ML.   | https://towardsdatascience.com/u-net-b229b32b4a71  |Encouraging @Rishi S Rao @Shudipto Trafder @Archit @Aniket Thomas @Shubhangi Jena @Sankalp Dayal @Sayali_Kutwal @Anna Scott @Seeratpal K. Jaura @Shanmugapriya @akshu18 @LauraT @susyjam @Aarthi Alagammai 
+#60daysofudacity |
+|59  |  Day 59
+1. Started to learn SQL server.<br>2. Reading more about UNET and other SOTA network for segmentation. <br>3. Revised transfer learning.  |   |Encouraging @Rishi S Rao @Shudipto Trafder @Archit @Aniket Thomas @Shubhangi Jena @Sankalp Dayal @Sayali_Kutwal @Anna Scott @Seeratpal K. Jaura @akshu18 @Shanmugapriya @LauraT @Aarthi Alagammai @susyjam 
+#60daysofudacity |
+|60  |Day 60
+1. Trying to apply active contour on my Biomedical project.<br>2. Searching more about tiny object detection in biomedical domain. |  |Encouraging @Shudipto Trafder @Archit @Aniket Thomas @Sankalp Dayal @Shubhangi Jena @Anna Scott @Sayali_Kutwal @akshu18 @Shanmugapriya @Jess @Stark @susyjam @Nirupama Singh @Labiba @Sarah Majors 
+#60daysofudacity|
 ###### Some days there might be #60daysofUdacity tag missing but it is mentioned on every post due to formatting issues need to add it again.
 
 
