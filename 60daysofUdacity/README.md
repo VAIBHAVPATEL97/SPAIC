@@ -3,19 +3,23 @@
 | Courses during this #60DaysofUdacity| Status |
 | ------------- | ------------- |
 | Deep Learning: GANs and Variational Autoencoders | Completed  |
-| Machine Learning Database-PostgreSQL course | In Progress  |
+| Machine Learning Database-PostgreSQL course | Completed  |
 | Machine Learning | In Progress|
-|#####Not related to this course Java Fundamentals and OOP- Udacity| Completed|
+|Deploying web application with Heroku| Completed|
 
-| Hackathon Orginized  | Organizer |
+| Hackathon Orginized/Paticipated  | Organizer/Link |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Kaggle Weekly challenge- (Organised)| @Vebby @Archit @Aniket Thomas  |
+| Kaggle Weekly Challenge  (Organised)| @Vebby @Archit @Aniket Thomas   |
+| Hackathon Blossom Flower Classification|https://www.kaggle.com/anitho2910/spai-hack|
 
 | Projects during this #60DaysofUdacity | Status |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Face Recognition in the Wild using Deep Learning  | Completed |
+| Pneumonia detection from Chest X-Ray | Completed  | Completed|
+| Neural Hashmap | In Progress |
+| Style Transfer for generating T-shirt images| Completed |
+
 
 
 
